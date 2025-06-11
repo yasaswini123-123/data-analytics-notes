@@ -1,0 +1,45 @@
+🚀 Python Logic Building – Module 2: Control Flow
+📅 Date: June 11, 2025
+🧠 Focus: Strengthening logic building through conditionals and loops in Python
+
+✅ Assignments Completed Today:
+🎯 Lesson 2.1: Conditional Statements
+✔️ Simple if Statement – Check if a number is positive
+
+✔️ if-else Statement – Check if number is positive or negative
+
+✔️ if-elif-else Statement – Identify if number is positive, negative, or zero
+
+✔️ Nested if Statement – Check if number is positive and even/odd or negative
+
+🔁 Lesson 2.2: Loops
+✔️ for Loop – Print numbers 1 to 10
+
+✔️ while Loop – Same task using while
+
+✔️ Nested Loops – Print 5x5 grid of *
+
+✔️ break Statement – Keep summing numbers until user enters 0
+
+✔️ continue Statement – Skip printing 5 from 1 to 10
+
+✔️ pass Statement – Define an empty function
+
+✔️ Combining Loops + Conditionals – Print even numbers from 1 to n
+
+✔️ Factorial Calculation – Find factorial using while loop
+
+✔️ Sum of Digits – Using while, add digits of a number
+
+✔️ Prime Number Check – Check if input is prime
+
+✔️ Fibonacci Sequence – Print first n Fibonacci numbers
+
+💡 Key Learnings:
+Practiced real-world logic problems using basic Python control flow.
+
+Strengthened understanding of if, elif, else, for, and while loops.
+
+Applied break, continue, and pass in practical situations.
+
+
